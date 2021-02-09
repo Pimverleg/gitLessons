@@ -1,3 +1,5 @@
+import webbrowser
+webbrowser.open('https://www.youtube.com/watch?v=DLzxrzFCyOs')
 print('hello')
 print('doei')
 
